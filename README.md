@@ -3,7 +3,7 @@
 ### Graduate Communication Data Science Student at USC 🌴 | Digital Social Media | Data Analyst | SU alumni 🍊
 
 <a href="https://www.linkedin.com/in/yi-qin-cds-expert/">
-  <img src="https://github.com/YvetteQin/YvetteQin/blob/main/HD%20Vector%20Blue%20Linkedin%20Round%20Icon%20PNG.jpeg" alt="LinkedIn Logo" width="40">
+  <img src="https://github.com/YvetteQin/YvetteQin/blob/main/LinkedIn%20Logo" alt="LinkedIn Logo" width="40">
 </a>
 
 ##### · 📧 How to reach me: yvetteqiny@gmail.com 
