@@ -20,3 +20,7 @@
 
 #### · [Tableau](https://public.tableau.com/app/profile/yvette.qin/vizzes)
 #### · [Excel](https://uscedu-my.sharepoint.com/:x:/r/personal/yqin3476_usc_edu/Documents/Customer%20Churn%20Rate%20Analysis.xlsx?d=w96097d84b1cc4e5aa20aac0901ac3b2e&csf=1&web=1&e=oKQCmq)
+
+
+
+
