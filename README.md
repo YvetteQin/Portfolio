@@ -18,4 +18,5 @@
 
 **I've had the privilege of working in PR companies, where my emphasis was on marketing and customer analysis. In addition to my previous internship experiences, I am particularly interested in roles related to data analysis, including business analysis. Here are some projects I've worked on:**
 
-###### · [Tableau](https://public.tableau.com/app/profile/yvette.qin/vizzes)
+#### · [Tableau](https://public.tableau.com/app/profile/yvette.qin/vizzes)
+#### · [Excel](https://uscedu-my.sharepoint.com/:x:/r/personal/yqin3476_usc_edu/Documents/Customer%20Churn%20Rate%20Analysis.xlsx?d=w96097d84b1cc4e5aa20aac0901ac3b2e&csf=1&web=1&e=oKQCmq)
