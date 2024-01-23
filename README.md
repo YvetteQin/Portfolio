@@ -12,6 +12,7 @@
 ##### · 💼 Fun fact: Passionate about the technology, medicine, and media industries and actively seeking opportunities in data analysis and business analysis roles. 
 
 
+
 ### **More about me:**
 
 **I completed my undergraduate studies at Syracuse University in 2019, focusing on Public Relations. Currently, I'm deep into the world of Communication Data Science, pursuing a master's degree at USC, and on track to graduate in May 2025. My passion lies in utilizing data tools to craft effective marketing strategies for all industries, especially on digital platforms like Instagram and TikTok.**
